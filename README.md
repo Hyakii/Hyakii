@@ -6,9 +6,6 @@
 
 - 📫 How to reach me **luan.souza@friboi.com.br**
 
-![Hyakii GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyakii&show_icons=true&theme=radical)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luan-souza-a57a23223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luan-souza-a57a23223" height="30" width="40" /></a>
@@ -25,11 +22,11 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Hyakii)](https://github.com/Hyakii)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyakii&layout=compact)](https://github.com/Hyakii/github-readme-stats)
+
+![Hyakii GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyakii&show_icons=true&theme=radical)
 
 
 - Thanks for visiting.
 
 - Enjoy it!! o/
-
-----------------------------------------------------------------------------------
-LINK_GIT = https://github.com/Hyakii.
