@@ -21,9 +21,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Hyakii)](https://github.com/Hyakii)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyakii&layout=compact)](https://github.com/Hyakii/github-readme-stats)
-
 ![Hyakii GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyakii&show_icons=true&theme=radical)
 
 
